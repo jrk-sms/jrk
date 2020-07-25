@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /?/
+Disallow: /page/
+Disallow: /category/
+Disallow: /portfolio/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+
+Sitemap: http://www.easyfix.in/sitemap.xml
