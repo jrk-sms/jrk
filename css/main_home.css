@@ -1508,3 +1508,8 @@ visibility:hidden;
 
 .fixhead { height: 70px; }
 
+.left_jrk {
+	color: white;
+    font-family: fantasy;
+    margin-left: 25px;
+}

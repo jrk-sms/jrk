@@ -71,7 +71,11 @@ a:hover {
 	outline: none;
 	color:#d9232d;
 }
-
+.left_jrk {
+	color: white;
+    font-family: fantasy;
+    margin-left: 25px;
+}
 h1 {
 	font-size:36px;
 }
